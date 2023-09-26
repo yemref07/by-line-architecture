@@ -1,4 +1,6 @@
-# Nuxt 3 Minimal Starter
+# By Line Mimarlık
+
+" I have created this project using Tailwind CSS and Nuxt 3 to represent an architectural firm's introduction and corporate identity. In this context, I have developed various UI and UX elements and performed basic work for SEO.
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
