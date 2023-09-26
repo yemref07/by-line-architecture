@@ -1,0 +1,41 @@
+{
+    "services": [
+      {
+        "id": 1,
+        "title": "Uygulama", 
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum, laborum quidem est quae debitis, harum voluptatem laudantium a sed aliquam eveniet earum. Molestias vero repellat expedita reprehenderit? Magnam, perspiciatis impedit dolore qui vitae voluptas quo obcaecati, perferendis vel nisi corrupti, ut excepturi earum sint adipisci ducimus eius? Qui, tenetur consequatur.",
+        "image":"1"
+      },
+      {
+        "id": 2,
+        "title": "Uygulama",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum, laborum quidem est quae debitis, harum voluptatem laudantium a sed aliquam eveniet earum. Molestias vero repellat expedita reprehenderit? Magnam, perspiciatis impedit dolore qui vitae voluptas quo obcaecati, perferendis vel nisi corrupti, ut excepturi earum sint adipisci ducimus eius? Qui, tenetur consequatur.",
+        "image":"2"
+      },
+      {
+        "id": 3,
+        "title": "Uygulama",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum, laborum quidem est quae debitis, harum voluptatem laudantium a sed aliquam eveniet earum. Molestias vero repellat expedita reprehenderit? Magnam, perspiciatis impedit dolore qui vitae voluptas quo obcaecati, perferendis vel nisi corrupti, ut excepturi earum sint adipisci ducimus eius? Qui, tenetur consequatur.",
+        "image":"3"
+      },
+      {
+        "id": 4,
+        "title": "Uygulama",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum, laborum quidem est quae debitis, harum voluptatem laudantium a sed aliquam eveniet earum. Molestias vero repellat expedita reprehenderit? Magnam, perspiciatis impedit dolore qui vitae voluptas quo obcaecati, perferendis vel nisi corrupti, ut excepturi earum sint adipisci ducimus eius? Qui, tenetur consequatur.",
+        "image":"4"
+      },
+      {
+        "id": 5,
+        "title": "Uygulama",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum, laborum quidem est quae debitis, harum voluptatem laudantium a sed aliquam eveniet earum. Molestias vero repellat expedita reprehenderit? Magnam, perspiciatis impedit dolore qui vitae voluptas quo obcaecati, perferendis vel nisi corrupti, ut excepturi earum sint adipisci ducimus eius? Qui, tenetur consequatur.",
+        "image":"5"
+      },
+      {
+        "id": 6,
+        "title": "Uygulama",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum, laborum quidem est quae debitis, harum voluptatem laudantium a sed aliquam eveniet earum. Molestias vero repellat expedita reprehenderit? Magnam, perspiciatis impedit dolore qui vitae voluptas quo obcaecati, perferendis vel nisi corrupti, ut excepturi earum sint adipisci ducimus eius? Qui, tenetur consequatur.",
+        "image":"6"
+      }
+
+    ]
+}
